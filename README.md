@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @fenetec
+- 👋 Hi, Amine of @fenetec
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me amine@fenetec.com
 
